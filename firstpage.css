@@ -1,0 +1,134 @@
+html,body{
+    height: 100%;
+}
+.i{
+    background-image: url('sa2.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+    background-attachment: fixed;
+    background-size: cover;    
+}
+
+
+ul{
+    list-style-type: none;      
+}
+
+a{
+    margin-left: 100px;
+    padding: 20px;
+    text-decoration: none;
+    color:#495b69;
+}
+ a:hover{
+    background: #98967d;
+    color: #122620;
+    transition: all 0.40s;
+}
+
+ 
+#000{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+#001{
+    font-size: 500px;
+}
+.navbar {
+        position: fixed;
+        margin-top: 0%;
+        color:#122620;
+        font-size: 20px;
+        background-color:rgba(228,228,220,0.5);  
+        width: 98.555555%;
+        border-radius: 5px;
+              
+}
+
+.form{
+    margin-top: 50px;
+    color: #e4e5ea;
+}
+.ii{
+    background-color:rgba(240,245,230,0);
+    color:rgba(228,228,220,0.9);
+    font-size: 70px;
+    margin-left: -230px;
+    margin-right: 700px;
+    margin-top: 150px;    
+}
+.three{
+    color: rgba(228,228,220,0.9);
+    font-size: 70px;
+    margin-top: 0px;
+    margin-left: -500px;
+    margin-right: 100px;
+}
+
+b{
+    font-size: 50px;
+    color:rgb(196,150,13);
+}
+
+#content{
+        width: 50%; 
+        margin: auto;
+}
+div.signup{
+   font-size: 50px;
+   background-image: url(road.jpg);
+   width: 100%;
+   height: 740px;
+   text-align: center;         
+   margin-top: -49.550px;
+   background-repeat: no-repeat;
+   height: 100%;
+   background-attachment: fixed;
+   background-size: cover;
+}
+#sub{
+    height: 30px;
+    width: 200px;
+}
+.n{
+    float: right;
+}
+
+#h{
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    font-size: 55px; 
+    float: left;
+}
+
+.contact{
+    background-image: url("contact.jpg");
+    color: #080808;
+    width: 1330px;
+    height: 330px;
+    margin-top: 0px;
+    text-align: center;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.about{
+    background-image: url("aboutus.jpg");
+    background-repeat: no-repeat;    
+    background-attachment: fixed;
+    background-size: cover; 
+    height: 90%;
+    margin-top: 0px;
+}
+
+
+#quote {
+    color:rgba(253,239,204,0.8);
+    font-size: 30px;
+    padding-top: 60px;
+    
+}
+

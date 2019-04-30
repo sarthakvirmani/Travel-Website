@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;      
+}
+.n{
+    float: right;
+}
+
+a{
+    margin-left: 100px;
+    padding: 10px;
+    text-decoration: none;
+    color:#495b69;
+}
+ a:hover{
+    background: #98967d;
+    color: #122620;
+    transition: all 0.40s;
+}
+
+ 
+#000{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+#001{
+    font-size: 500px;
+}
+.navbar {
+        position: fixed;
+        margin-top: 0%;
+        color:#122620;
+        font-size: 20px;
+        background-color:rgba(240,245,230,0.5);  
+        width: 98.555555%;
+        border-radius: 5px;
+              
+}
+
